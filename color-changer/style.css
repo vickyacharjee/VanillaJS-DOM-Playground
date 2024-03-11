@@ -1,0 +1,33 @@
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: sans-serif;
+}
+
+
+.button{
+    padding: 50px;
+    margin-inline:20px ;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: red;
+}
+#brown{
+    background-color: brown;
+}
+#pink{
+    background-color: pink;
+}
