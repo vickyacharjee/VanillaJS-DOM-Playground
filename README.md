@@ -20,21 +20,21 @@ The DOM Playground is a space for experimenting with JavaScript DOM interactions
 
 The repository currently includes several minor projects, each focusing on different aspects of JavaScript DOM manipulation. Feel free to explore and contribute to any of the projects listed below:
 
-1. **Project One: [BMI Calculator]**
-   - Description: [A simple designed calculates BMI based on height and weight provided by user]
-   - Contribution Opportunities: [contributors can enhance its UI]
+1. **Project One: BMI Calculator**
+   - Description: A simple designed BMI calc, which calculates BMI based on height and weight provided by user
+   - Contribution Opportunities: contributors can enhance its UI
 
-2. **Project Two: [CLOCK]**
-   - Description: [A simple designed Clock typically understanding its LOGIC]
-   - Contribution Opportunities: [contributors can enhance its UI, and change date fromat]
+2. **Project Two: CLOCK**
+   - Description: A simple designed Clock typically understanding its LOGIC
+   - Contribution Opportunities: contributors can enhance its UI, and change date fromat via different methods
 
-3. **Project Three: [Color-Changer]**
-   - Description: [typically changes BG color based on clicks and mouseover ]
-   - Contribution Opportunities: [Explain how contributors can enhance or modify the project]
+3. **Project Three: Color-Changer**
+   - Description: typically changes BG color based on clicks and mouseover 
+   - Contribution Opportunities: Adding different EventListners
 
-4. **Project Four: [Guess a Number]**
-   - Description: [A user have to guess a number b/w 1 to 100, upto 10 times]
-   - Contribution Opportunities: [A conributor can set the Range limit based on individual interest, and a Strong focus on CSS part by adding a External CSS File to it]
+4. **Project Four: Guess a Number**
+   - Description: [ user have to guess a number b/w 1 to 100, upto 10 times
+   - Contribution Opportunities: A conributor can set the Range limit based on individual interest, and a Strong focus on CSS part by adding a External CSS File to it
 
 ## How to Contribute
 
