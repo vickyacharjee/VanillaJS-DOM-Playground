@@ -49,6 +49,7 @@ function validateGuess(guess){
     }
 
 }
+//conditional check
 function checkGuess(guess) {
     if(guess===randomNumber){
         displayMessage(`you guessed it rght`)
@@ -57,19 +58,21 @@ function checkGuess(guess) {
         displayMessage('number is too low')
     }
     else if(guess>randomNumber){
-        displayMessage('numbwe is too High')
-    }
-    
+        displayMessage('number is too High')
+    }   
 }
+//cleaning the input
 function displayGuess(guess) {
     userInput.value='';
     guessSlot.innerHTML += `${guess} `
     numGuess++;
     remaining.innerHTML=`${11-numGuess}`
 }
+//display the contional output
 function displayMessage(message) {
    lowOrHi.innerHTML = `<h1>${message}</h1>`;
 }
+//procedure for re-start
 function newGame() {
     const newGameButton= document.querySelector('#newGame')
     newGameButton.addEventListener('click',(e)=>
@@ -84,6 +87,7 @@ function newGame() {
         playGame=true;
     })
 }
+//for ending the game
 function endGame() {
     userInput.value=''
     userInput.setAttribute('disabled','')
