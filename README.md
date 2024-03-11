@@ -33,7 +33,7 @@ The repository currently includes several minor projects, each focusing on diffe
    - Contribution Opportunities: Adding different EventListners
 
 4. **Project Four: Guess a Number**
-   - Description: [ user have to guess a number b/w 1 to 100, upto 10 times
+   - Description: user have to guess a number b/w 1 to 100, upto 10 times
    - Contribution Opportunities: A conributor can set the Range limit based on individual interest, and a Strong focus on CSS part by adding a External CSS File to it
 
 ## How to Contribute
